@@ -12,3 +12,4 @@ Aisha is still building her tip calculator, using the same rules as before: Tip 
 If i pass the value 275 the the function `calcTip` the function should return or console log _'The bill was 275, the tip was 41.25, and the total value 316.25'_
 
 Good Luck 😀
+ 
